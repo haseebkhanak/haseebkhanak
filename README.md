@@ -1,5 +1,4 @@
-- 👋 Hi, I’m haseeb salman khan a passionate MERN stack developer and a data scientist with a passion of creating scalable user friendly web applications using React.js.
-- 👀 I’m interested in making web applications
+- 👋 Hi, I’m haseeb salman khan a passionate SQA Engineer with a passion of testing applications.
 - 💞️ I’m looking to collaborate on Web applications and machine learning projects.
 - 📫 You can reach me out at saadkhanak13@gmail.com
 
